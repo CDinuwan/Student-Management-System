@@ -1,0 +1,14 @@
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\bin\Debug\MetroFramework.dll
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hecdi\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CopyComplete
